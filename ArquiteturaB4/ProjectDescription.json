@@ -3,7 +3,7 @@
   "DLSVersion_LastSaved": "2.1.6",
   "DLSVersion_EarliestCompatible": "2.0.0",
   "CreationTime": "2025-10-07T20:08:24.784-03:00",
-  "LastSaveTime": "2025-10-07T21:28:51.136-03:00",
+  "LastSaveTime": "2025-10-28T21:32:46.488-03:00",
   "Prefs_MainPinNamesDisplayMode": 0,
   "Prefs_ChipPinNamesDisplayMode": 2,
   "Prefs_GridDisplayMode": 0,
@@ -18,7 +18,10 @@
     "NOR",
     "OR",
     "XOR",
-    "XNOR"
+    "XNOR",
+    "Half adder",
+    "FULL ADDER",
+    "4 bit adder"
   ],
   "StarredList":[
     {
@@ -32,6 +35,22 @@
     {
       "Name":"BasicGates",
       "IsCollection":true
+    },
+    {
+      "Name":"Half adder",
+      "IsCollection":false
+    },
+    {
+      "Name":"FULL ADDER",
+      "IsCollection":false
+    },
+    {
+      "Name":"MERGE/SPLIT",
+      "IsCollection":true
+    },
+    {
+      "Name":"4 bit adder",
+      "IsCollection":false
     }
   ],
   "ChipCollections":[
@@ -66,12 +85,12 @@
       "Name":"MEMORY"
     },
     {
-      "Chips":["BUZZER"],
+      "Chips":["BUZZER","Half adder","FULL ADDER"],
       "IsToggledOpen":true,
       "Name":"OTHER"
     },
     {
-      "Chips":["Not","AND","NAND","OR","NOR","XOR","XNOR"],
+      "Chips":["4 bit adder","Not","AND","NAND","OR","NOR","XOR","XNOR"],
       "IsToggledOpen":true,
       "Name":"BasicGates"
     }
