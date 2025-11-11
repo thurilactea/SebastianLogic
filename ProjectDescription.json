@@ -3,7 +3,7 @@
   "DLSVersion_LastSaved": "2.1.6",
   "DLSVersion_EarliestCompatible": "2.0.0",
   "CreationTime": "2025-10-07T20:08:24.784-03:00",
-  "LastSaveTime": "2025-11-04T20:30:12.657-03:00",
+  "LastSaveTime": "2025-11-11T20:26:21.904-03:00",
   "Prefs_MainPinNamesDisplayMode": 0,
   "Prefs_ChipPinNamesDisplayMode": 2,
   "Prefs_GridDisplayMode": 0,
@@ -22,7 +22,8 @@
     "Half adder",
     "FULL ADDER",
     "4 bit adder",
-    "half-Subtractor"
+    "half-Subtractor",
+    "full subtractor"
   ],
   "StarredList":[
     {
@@ -55,6 +56,10 @@
     },
     {
       "Name":"half-Subtractor",
+      "IsCollection":false
+    },
+    {
+      "Name":"full subtractor",
       "IsCollection":false
     }
   ],

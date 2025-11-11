@@ -15,7 +15,7 @@
   },
   "InputPins":[
     {
-      "Name":"IN",
+      "Name":"A",
       "ID":902879913,
       "Position":{
         "x":-5.66667,
@@ -26,7 +26,7 @@
       "ValueDisplayMode":0
     },
     {
-      "Name":"IN",
+      "Name":"B",
       "ID":1426282706,
       "Position":{
         "x":-5.66667,
@@ -39,7 +39,7 @@
   ],
   "OutputPins":[
     {
-      "Name":"OUT",
+      "Name":"DIFF",
       "ID":2060569462,
       "Position":{
         "x":2.16667,
@@ -50,7 +50,7 @@
       "ValueDisplayMode":0
     },
     {
-      "Name":"OUT",
+      "Name":"BORROW",
       "ID":1687535147,
       "Position":{
         "x":2.30556,
