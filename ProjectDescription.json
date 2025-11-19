@@ -3,7 +3,7 @@
   "DLSVersion_LastSaved": "2.1.6",
   "DLSVersion_EarliestCompatible": "2.0.0",
   "CreationTime": "2025-10-07T20:08:24.784-03:00",
-  "LastSaveTime": "2025-11-11T20:26:21.904-03:00",
+  "LastSaveTime": "2025-11-18T21:43:46.087-03:00",
   "Prefs_MainPinNamesDisplayMode": 0,
   "Prefs_ChipPinNamesDisplayMode": 2,
   "Prefs_GridDisplayMode": 0,
@@ -23,7 +23,11 @@
     "FULL ADDER",
     "4 bit adder",
     "half-Subtractor",
-    "full subtractor"
+    "full subtractor",
+    "3AND",
+    "teste",
+    "3OR",
+    "MUX"
   ],
   "StarredList":[
     {
@@ -60,6 +64,22 @@
     },
     {
       "Name":"full subtractor",
+      "IsCollection":false
+    },
+    {
+      "Name":"3AND",
+      "IsCollection":false
+    },
+    {
+      "Name":"teste",
+      "IsCollection":false
+    },
+    {
+      "Name":"3OR",
+      "IsCollection":false
+    },
+    {
+      "Name":"MUX",
       "IsCollection":false
     }
   ],
