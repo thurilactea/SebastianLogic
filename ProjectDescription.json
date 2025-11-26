@@ -3,7 +3,7 @@
   "DLSVersion_LastSaved": "2.1.6",
   "DLSVersion_EarliestCompatible": "2.0.0",
   "CreationTime": "2025-10-07T20:08:24.784-03:00",
-  "LastSaveTime": "2025-11-18T21:43:46.087-03:00",
+  "LastSaveTime": "2025-11-25T21:12:07.034-03:00",
   "Prefs_MainPinNamesDisplayMode": 0,
   "Prefs_ChipPinNamesDisplayMode": 2,
   "Prefs_GridDisplayMode": 0,
@@ -27,7 +27,10 @@
     "3AND",
     "teste",
     "3OR",
-    "MUX"
+    "MUX",
+    "4BIT-OR",
+    "4BIT-AND",
+    "MUX-4BIT"
   ],
   "StarredList":[
     {
@@ -81,6 +84,18 @@
     {
       "Name":"MUX",
       "IsCollection":false
+    },
+    {
+      "Name":"4BIT-OR",
+      "IsCollection":false
+    },
+    {
+      "Name":"4BIT-AND",
+      "IsCollection":false
+    },
+    {
+      "Name":"MUX-4BIT",
+      "IsCollection":false
     }
   ],
   "ChipCollections":[
@@ -96,7 +111,7 @@
     },
     {
       "Chips":["1-4BIT","1-8BIT","4-8BIT","4-1BIT","8-4BIT","8-1BIT"],
-      "IsToggledOpen":false,
+      "IsToggledOpen":true,
       "Name":"MERGE/SPLIT"
     },
     {
@@ -115,7 +130,7 @@
       "Name":"MEMORY"
     },
     {
-      "Chips":["BUZZER","Half adder","FULL ADDER"],
+      "Chips":["BUZZER","Half adder","FULL ADDER","half-Subtractor","full subtractor","3AND","teste","3OR","MUX"],
       "IsToggledOpen":true,
       "Name":"OTHER"
     },
